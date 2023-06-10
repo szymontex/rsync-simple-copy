@@ -1,4 +1,4 @@
-# rsync-simple-copy
+# rsync-simple-copy-backup
 script for rsyncing folders. Simply do your CRON backup task for your mounts. 
 
 
